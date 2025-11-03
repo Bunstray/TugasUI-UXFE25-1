@@ -1,2 +1,2 @@
 # TugasUI-UXFE25-1
-Hands On Web Component Activity
+Hands-on Web Components and Micro Frontends
